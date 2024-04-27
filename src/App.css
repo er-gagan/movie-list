@@ -1,0 +1,28 @@
+.select {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .mb-3 {
+    margin-bottom: 15px;
+  }
+}
+
+
+.movie-details h5 {
+  margin-top: 0;
+}
+
+.tooltip-target {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
